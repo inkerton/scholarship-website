@@ -6,3 +6,25 @@ There is not a single website without unnecessary info. for the students to look
 Scholar's navigator is the project that is supposed to solve the problem of the students. It will give info. including the timeline, process and eligibility of the students for the scholarships. 
 ## What's special about Scholarsnavigator?
 This is supposed to be a dependable resource for the students. In India, there are many schemes which the government has provided but are not consumed by the citizens because of lack of awareness. Scholarsnavigator is meant to be precise and contains a vast database.
+# Some Potential Features
+here are some potential features we intend to include:
+
+1.Comprehensive Scholarship Database: Provide a vast and up-to-date database of various scholarships available to students, including both private and government-funded options.
+
+2.Advanced Search Functionality: Implement a powerful search feature that allows students to filter scholarships based on criteria such as eligibility requirements, academic fields, location, or specific keywords.
+
+3.Detailed Scholarship Profiles: Present detailed profiles for each scholarship, including information on eligibility criteria, application deadlines, required documents, award amounts, and any specific conditions or restrictions.
+
+4.Personalized User Accounts: Allow students to create personalized accounts where they can save their preferred scholarships, track their application progress, and receive notifications about relevant new opportunities.
+
+5.Application Assistance: Provide guidance and tips on how to prepare a strong scholarship application, including advice on writing essays, obtaining recommendation letters, and preparing supporting documents.
+
+6.Timeline and Reminders: Offer a timeline feature that outlines key dates and deadlines for various scholarships, helping students stay organized and ensuring they don't miss important application periods.
+
+7.User Reviews and Ratings: Enable students to share their experiences and provide ratings or feedback on scholarships they have applied for or received, helping future applicants make informed decisions.
+
+8.Additional Resources: Curate a collection of resources such as guides, articles, and videos that offer valuable insights on scholarship applications, financial aid, and general educational guidance.
+
+9.Mobile-Friendly Design: Ensure the website is responsive and optimized for mobile devices, allowing students to access scholarship information on the go.
+
+10.Notification System: Implement a notification system to keep users informed about new scholarships that match their preferences, upcoming deadlines, or important updates related to their applications.
