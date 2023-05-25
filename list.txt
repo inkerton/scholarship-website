@@ -55,3 +55,15 @@ The applying students whose family annual income annually is below Rs. 2 Lakhs.
 Passed  10th /SSC exam in the year 2021
 Scored 90% or obtained 9 CGPA in the class 10th Grade/SSC examination minimum required marks 75%.
 The students living/studying in Paschim Maharashtra (Pune, Sangli, Solapur, Kolhapur, and Satara districts)
+
+15.Tata Trust Vocational Scholarship
+The candidate is an Indian national.
+The candidate who Passed out of Class 10th or 12th in 2019-20.
+
+16.Adobe Research Women-in-Technology Scholarship
+This scheme is valid for a female student who is currently enrolled in the undergraduate program at a university for the session of the 2020-21 academic year.
+Directs to the full-time undergraduate student at a university for the 2020-21 academic years.
+One must be majoring in computer science, computer engineering, or a closely related technical field.
+One must have a strong academic record. One must not have a close relative working for Adobe Research.
+
+
