@@ -19,7 +19,7 @@ here are some potential features we intend to include:
 
 <b>5.Application Assistance:</b> Provide guidance and tips on how to prepare a strong scholarship application, including advice on writing essays, obtaining recommendation letters, and preparing supporting documents.
 
-6.Timeline and Reminders: Offer a timeline feature that outlines key dates and deadlines for various scholarships, helping students stay organized and ensuring they don't miss important application periods.
+<b>6.Timeline and Reminders:</b> Offer a timeline feature that outlines key dates and deadlines for various scholarships, helping students stay organized and ensuring they don't miss important application periods.
 
 7.User Reviews and Ratings: Enable students to share their experiences and provide ratings or feedback on scholarships they have applied for or received, helping future applicants make informed decisions.
 
