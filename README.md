@@ -21,7 +21,7 @@ here are some potential features we intend to include:
 
 <b>6.Timeline and Reminders:</b> Offer a timeline feature that outlines key dates and deadlines for various scholarships, helping students stay organized and ensuring they don't miss important application periods.
 
-7.User Reviews and Ratings: Enable students to share their experiences and provide ratings or feedback on scholarships they have applied for or received, helping future applicants make informed decisions.
+<b>7.User Reviews and Ratings:</b> Enable students to share their experiences and provide ratings or feedback on scholarships they have applied for or received, helping future applicants make informed decisions.
 
 8.Additional Resources: Curate a collection of resources such as guides, articles, and videos that offer valuable insights on scholarship applications, financial aid, and general educational guidance.
 
