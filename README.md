@@ -11,7 +11,7 @@ here are some potential features we intend to include:
 
 <b>1.Comprehensive Scholarship Database:</b> Provide a vast and up-to-date database of various scholarships available to students, including both private and government-funded options.
 
-2.Advanced Search Functionality: Implement a powerful search feature that allows students to filter scholarships based on criteria such as eligibility requirements, academic fields, location, or specific keywords.
+<b>2.Advanced Search Functionality:</b> Implement a powerful search feature that allows students to filter scholarships based on criteria such as eligibility requirements, academic fields, location, or specific keywords.
 
 3.Detailed Scholarship Profiles: Present detailed profiles for each scholarship, including information on eligibility criteria, application deadlines, required documents, award amounts, and any specific conditions or restrictions.
 
