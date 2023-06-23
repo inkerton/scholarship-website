@@ -23,7 +23,7 @@ here are some potential features we intend to include:
 
 <b>7.User Reviews and Ratings:</b> Enable students to share their experiences and provide ratings or feedback on scholarships they have applied for or received, helping future applicants make informed decisions.
 
-8.Additional Resources: Curate a collection of resources such as guides, articles, and videos that offer valuable insights on scholarship applications, financial aid, and general educational guidance.
+<b>8.Additional Resources:</b> Curate a collection of resources such as guides, articles, and videos that offer valuable insights on scholarship applications, financial aid, and general educational guidance.
 
 9.Mobile-Friendly Design: Ensure the website is responsive and optimized for mobile devices, allowing students to access scholarship information on the go.
 
