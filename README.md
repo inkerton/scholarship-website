@@ -15,7 +15,7 @@ here are some potential features we intend to include:
 
 <b>3.Detailed Scholarship Profiles:</b> Present detailed profiles for each scholarship, including information on eligibility criteria, application deadlines, required documents, award amounts, and any specific conditions or restrictions.
 
-4.Personalized User Accounts: Allow students to create personalized accounts where they can save their preferred scholarships, track their application progress, and receive notifications about relevant new opportunities.
+<b>4.Personalized User Accounts:</b> Allow students to create personalized accounts where they can save their preferred scholarships, track their application progress, and receive notifications about relevant new opportunities.
 
 5.Application Assistance: Provide guidance and tips on how to prepare a strong scholarship application, including advice on writing essays, obtaining recommendation letters, and preparing supporting documents.
 
