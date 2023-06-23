@@ -27,4 +27,4 @@ here are some potential features we intend to include:
 
 <b>9.Mobile-Friendly Design:</b> Ensure the website is responsive and optimized for mobile devices, allowing students to access scholarship information on the go.
 
-10.Notification System: Implement a notification system to keep users informed about new scholarships that match their preferences, upcoming deadlines, or important updates related to their applications.
+<b>10.Notification System:</b> Implement a notification system to keep users informed about new scholarships that match their preferences, upcoming deadlines, or important updates related to their applications.
