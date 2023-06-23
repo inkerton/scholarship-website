@@ -9,7 +9,7 @@ This is supposed to be a dependable resource for the students. In India, there a
 # Some Potential Features
 here are some potential features we intend to include:
 
-1.Comprehensive Scholarship Database: Provide a vast and up-to-date database of various scholarships available to students, including both private and government-funded options.
+<b>1.Comprehensive Scholarship Database:</b> Provide a vast and up-to-date database of various scholarships available to students, including both private and government-funded options.
 
 2.Advanced Search Functionality: Implement a powerful search feature that allows students to filter scholarships based on criteria such as eligibility requirements, academic fields, location, or specific keywords.
 
