@@ -31,4 +31,4 @@ here are some potential features we intend to include:
 
 # Tech-stack
 For the frontend: React Js
-For CLient login and database:
+For CLient login and database: Auth0
