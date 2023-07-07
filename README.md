@@ -5,7 +5,7 @@ There is not a single website without unnecessary info. for the students to look
 # Understanding the Solution
 Scholar's navigator is the project that is supposed to solve the problem of the students. It will give info. including the timeline, process and eligibility of the students for the scholarships. 
 ## What's special about Scholarsnavigator?
-This is supposed to be a dependable resource for the students. In India, there are many schemes which the government has provided but are not consumed by the citizens because of lack of awareness. Scholarsnavigator is meant to be precise and contains a vast database.
+This is supposed to be a dependable resource for the students. In India, there are many schemes provided by the government but are not consumed by the citizens because of lack of awareness. Scholarsnavigator is meant to be precise and contains a vast database.
 # Some Potential Features
 here are some potential features we intend to include:
 
