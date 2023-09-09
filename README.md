@@ -33,3 +33,5 @@ here are some potential features we intend to include:
 For the frontend: React Js
 
 For CLient login and database: Auth0
+
+Will
