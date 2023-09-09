@@ -34,4 +34,4 @@ For the frontend: React Js
 
 For CLient login and database: Auth0
 
-Will try and host 
+Will try and host it
