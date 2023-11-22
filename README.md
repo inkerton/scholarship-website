@@ -35,3 +35,5 @@ For the frontend: React Js <!-- janvi -->
 For CLient login and database: Auth0
 
 Will try and host it. 🎯
+
+F
